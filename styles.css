@@ -1,0 +1,132 @@
+/*Text*/
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.colored-section {
+    color: #fff;
+}
+
+.hot-text {
+    color: #f15a42
+}
+.center {
+    text-align: center;
+}
+/* Buttons */
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.btn:hover {
+    background-color: #874b9d;
+    color: #fff;
+}
+.course-button {
+    margin-bottom: 40px;
+}
+/* Headings */
+.trainer {
+    padding: 0px;
+}
+.section-header {
+    padding-bottom: 50px;
+}
+/* Home Sections */
+#block-13170351 {
+    background-color: #7C519A;
+}
+#block-13093813 .black-overlay {
+    background: #6B398D;
+}
+#block-13207812{
+    background: #111111;
+}
+.home-banner {
+    padding: 170px 0 0 0;
+}
+.image-section {
+    padding: 110px 0;
+}
+.home-badass {
+    padding: 150px 0;
+    text-align: center;
+}
+.home-subtitle {
+    padding-bottom: 40px;
+}
+
+#block-13093791 .row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+/* About Sections */
+#block-13007721, #block-13150648 {
+    background-color: #7C519A;
+}
+
+.air-force {
+    color: #313133;
+    background-color: white;
+    opacity: 0.8;
+    padding: 30px;
+}
+
+.logo {
+    padding: 50px;
+}
+
+.credential {
+    padding-bottom: 40px;
+}
+/*Strong as a Mother Course Page*/
+#block-12156897 .course-top-row {
+    padding: 200px 0;
+}
+.nothing-stronger{
+    padding: 0 0 200px;
+}
+#block-13169210 .full-width-image-bg {
+    padding: 200px 0;
+}
+/*Social Icon*/
+.badge.social {
+	background: #f15a42;
+	font-size: 40px;
+	height: 80px;
+	width: 80px;
+	text-align: center;
+	line-height: 82px;
+	margin: 20px 5px 20px 0;
+	padding: 0;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	color: #fff;
+}
+.badge.social.insta:hover {
+	background: #874b9d;
+}
+/* Bio */
+.bio-heading {
+    padding: 30px 0 10px;
+}
+/* Footer */
+.community-section {
+    text-align: center;
+}
+.community {
+    padding-top: 20px;
+}
+.footer-link {
+    font-size: 14px;
+}
